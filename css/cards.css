@@ -1,0 +1,18 @@
+.card {
+    background: white;
+}
+
+.card__content {
+    padding: 80px;
+}
+
+.card__title {
+    font-family: 'BioRhyme', serif;
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.card--dark {
+    background: black;
+    color: white
+}

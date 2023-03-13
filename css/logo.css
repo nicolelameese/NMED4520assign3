@@ -1,0 +1,12 @@
+.logo {
+    font-family: 'Sofia', cursive;
+    font-size: 34px;
+    text-align: right;
+    color: #E71D36;
+}
+.logo--foot {
+    font-family: 'Sofia', cursive;
+    font-size: 34px;
+    text-align: left;
+    color: #FEE440;
+}

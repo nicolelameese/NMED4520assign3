@@ -1,0 +1,48 @@
+@import 'cards.css';
+@import 'header.css';
+@import 'logo.css';
+
+* {
+    box-sizing: border-box;
+}
+
+body,
+html {
+    margin: 0;
+    min-height: 100vh;
+}
+
+/* TYPOGRAPHY */
+
+h1 {
+    font-family: 'Sofia', cursive;
+    font-size: 44px;
+}
+
+h2 {
+    font-family: 'Gabriela', serif;
+    font-size: 34px;
+}
+
+h3 {
+    font-family: 'BioRhyme', serif;
+    font-size: 24px;
+}
+
+p {
+    font-family: 'Alice', serif;
+    font-size: 18px;
+}
+
+/* CONSTRAINTS */
+
+.container {
+    max-width: 1440px;
+    margin: auto;
+}
+
+.wrapper {
+    padding: 0px 100px;
+}
+
+
