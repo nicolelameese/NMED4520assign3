@@ -1,18 +1,31 @@
 .card {
-    background: white;
+    background: #CCC5B9;
+    color: black;
+    text-align: center;
 }
 
 .card__content {
     padding: 80px;
+    text-align: center;
+}
+
+.card__discription {
+    text-align: left;
 }
 
 .card__title {
     font-family: 'BioRhyme', serif;
     font-size: 24px;
     margin-top: 0;
+    text-align: left;
 }
 
 .card--dark {
-    background: black;
-    color: white
+    background: #A5A299;
+    color: black;
+}
+
+.card__img {
+    max-width: 70%;
+    padding: 30px 30px;
 }
