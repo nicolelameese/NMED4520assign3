@@ -1,7 +1,12 @@
 .cite {
     font-family: 'Alice', serif;
-    font-size: 14px;
-    text-align: center;
+    font-size: 18px;
+    text-align: right;
     padding-top: 20px;
     color: #D6253B;
+    text-decoration: none;
+}
+
+.cite:hover {
+    color: #F4D511;
 }
